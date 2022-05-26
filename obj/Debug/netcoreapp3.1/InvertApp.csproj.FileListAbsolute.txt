@@ -1,0 +1,14 @@
+C:\Users\Franklyn\source\repos\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.exe
+C:\Users\Franklyn\source\repos\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.deps.json
+C:\Users\Franklyn\source\repos\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.json
+C:\Users\Franklyn\source\repos\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.dev.json
+C:\Users\Franklyn\source\repos\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.dll
+C:\Users\Franklyn\source\repos\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.pdb
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csproj.AssemblyReference.cache
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfoInputs.cache
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfo.cs
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.dll
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.pdb
+C:\Users\Franklyn\source\repos\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.genruntimeconfig.cache
